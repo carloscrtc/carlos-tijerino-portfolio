@@ -36,18 +36,6 @@ carlos-tijerino-portfolio/
 
 No se requiere un servidor para una vista previa básica. Abre `index.html` en un navegador.
 
-For a local HTTP server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
-
 ## Deploy to GitHub Pages
 
 1. Crea un repositorio en GitHub, por ejemplo:
