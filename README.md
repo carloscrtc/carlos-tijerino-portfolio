@@ -1,12 +1,12 @@
-# Carlos Tijerino — Mobile Developer Portfolio
+# Carlos Tijerino — Mobile Developer
 
-Personal portfolio website for Carlos Raymundo Tijerino Capetillo.
+Sitio web de portafolio personal para Carlos Raymundo Tijerino Capetillo.
 
 **Focus:** iOS · Android · Flutter
 
 ## Tech
 
-This portfolio is intentionally lightweight and does not require a build system:
+Este portafolio es deliberadamente ligero y no requiere un sistema de compilación:
 
 - HTML5
 - CSS3
@@ -34,7 +34,7 @@ carlos-tijerino-portfolio/
 
 ## Run locally
 
-No server is required for basic preview. Open `index.html` in a browser.
+No se requiere un servidor para una vista previa básica. Abre `index.html` en un navegador.
 
 For a local HTTP server:
 
@@ -50,36 +50,19 @@ http://localhost:8000
 
 ## Deploy to GitHub Pages
 
-1. Create a GitHub repository, for example:
+1. Crea un repositorio en GitHub, por ejemplo:
    `carlos-tijerino-portfolio`
-2. Upload all files from this folder.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, select:
+2. Sube todos los archivos de esta carpeta.
+3. Ve a **Settings → Pages**.
+4. En **Build and deployment**, selecciona:
    - Source: `Deploy from a branch`
    - Branch: `main`
    - Folder: `/ (root)`
-5. Save.
-6. GitHub will provide the published URL.
+5. Guarda los cambios.
+6. GitHub proporcionará la URL publicada.
 
-If you name the repository:
+Si nombras el repositorio:
 
 ```text
 YOUR_USERNAME.github.io
 ```
-
-the site can become your root GitHub Pages website.
-
-## Personalization checklist
-
-Before publishing:
-
-- Add your current CV as `assets/cv/CV_Carlos_Tijerino.pdf`.
-- Replace placeholder project images if you want visual screenshots.
-- Add your GitHub profile URL.
-- Add public GitHub repositories to project cards if available.
-- Confirm that any company/client screenshots are safe to publish.
-- Do not upload confidential banking, insurance, customer or production information.
-
-## Source basis
-
-The content in this portfolio is based on the supplied CV. Confidential projects are described at a high level and do not expose proprietary source code, credentials, endpoints or internal information.
